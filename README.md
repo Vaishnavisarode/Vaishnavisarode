@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vaishnavi Sarode
 
-### 🚀 AI Enthusiast | Data Analytics Learner | Python Developer | Generative AI Explorer
+### 🚀 AI Enthusiast | Data Analytics | Python Developer | Generative AI Explorer
 
 ---
 
