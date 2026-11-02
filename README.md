@@ -63,6 +63,7 @@ I enjoy exploring data, identifying meaningful patterns, and transforming comple
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+</div>
 
 ---
 
