@@ -180,7 +180,7 @@ alt="Most Used Languages"/>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://vaishnavisarode.github.io/vaishnavisarode-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-087F70?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
