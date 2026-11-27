@@ -133,7 +133,7 @@ I enjoy exploring data, identifying meaningful patterns, and transforming comple
 Explored the application of Zero-Shot Learning with Large Language Models to understand and answer novel financial queries without task-specific training examples.
 
 <a href="https://jisem-journal.com/index.php/journal/article/view/7922">
-<img src="https://img.shields.io/badge/Read%20Research%20Paper-087F70?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Read%20Research%20Paper-087F70?style=for-the-badge&logo=docs&logoColor=white"/>
 </a>
 
 ---
@@ -181,7 +181,7 @@ alt="Most Used Languages"/>
 </a>
 
 <a href="https://vaishnavisarode.github.io/vaishnavisarode-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-087F70?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-087F70?style=for-the-badge&logo=chrome&logoColor=white"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarodevaishnavia102@gmail.com">
